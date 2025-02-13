@@ -1,17 +1,11 @@
-# Desarrollo de Aplicaciones para Dispositivos Móvil
+# Programacion ll
 
 <p align="center">
   <img src="yo2.jpg" alt="Descripción de la imagen" width="250" />
-  <br/>
-  <span>EBETH JAMIN MEJIA CHAVEZ</span>
 </p>
 
-## Proyectos en Android Studio
+<h3 align="center">22590434 <br/> EBETH JAMIN MEJIA CHAVEZ</h3>
 
-Este repositorio contiene varios proyectos de Android Studio, cada uno dentro de su propia carpeta. A continuación se detalla cada proyecto:
+## Proyectos
 
-- [Proyecto1](./Practica1/)
-Descripción: Este proyecto es una aplicación de ejemplo que utiliza layauts y elementos basicos para hacer un formulario.
-
-- [Proyecto2](./practica2/)
-Descripción: Este proyecto es una aplicación que interactua entre dos ventanas, en la primera le pedimos al usuario que ingrese su nombre, y al pulsar un boton se abre otra ventana saludandolo.
+Este repositorio contiene varios proyectos para la materia de Programacion ll, cada uno dentro de su propia carpeta. A continuación se detalla cada proyecto:
